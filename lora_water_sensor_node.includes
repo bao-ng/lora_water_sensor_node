@@ -1,0 +1,7 @@
+sources/app
+sources/platform
+sources/platform/adc
+sources/platform/button
+sources/platform/flash
+sources/platform/spi
+.
